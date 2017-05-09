@@ -1,3 +1,5 @@
+#телеграм-бот, который считает слова в сообщении пользователя
+#@wordwordcount_bot
 import flask
 import telebot
 import conf
